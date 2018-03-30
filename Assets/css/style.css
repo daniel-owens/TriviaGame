@@ -1,0 +1,59 @@
+h1 {
+	padding-top: 50px;
+	font-size: 60px;
+}
+
+#container {
+	text-align: center;
+	background-color: yellow;
+	opacity: 0.9;
+	margin: auto;
+	margin-top: 275px;
+	width: 60%;
+}
+
+button {
+	font-weight: bold;
+	background-color: pink;
+	font-size: 40px;
+}
+
+p {
+	font-weight: bold;
+}
+
+hr {
+	height: 5px;
+	background-color: green;
+	border: none;
+}
+
+input[type="radio"]{
+  margin: 0 10px 0 10px;
+}
+
+.answers {
+	color: blue;
+	margin-right: 50px;
+	font-size: 15px;
+}
+
+.question {
+	font-size: 20px;
+}
+
+#submit {
+	font-weight: bold;
+	background-color: pink;
+	font-size: 30px;
+}
+
+#restart {
+	font-weight: bold;
+	background-color: pink;
+	font-size: 30px;
+}
+
+footer {
+	padding: 50px;
+}
